@@ -1,3 +1,4 @@
 # deep.learning.with.tf
 
-- `tf.estimator`
+- 03/01 - 03/03 : `tf.estimator`
+- 03/03 - ....  : `tf-serving`
